@@ -1,3 +1,4 @@
 hello girl
-hello guys 21321321321
-thrid wirte
+<<<<<<< HEAD
+hello guys 213213212
+thrid wirte 999999999
